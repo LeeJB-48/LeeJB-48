@@ -1,16 +1,34 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JungBumLee&fontSize=70&animation=twinkling)
 
-<!--
-**LeeJB-48/LeeJB-48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-Here are some ideas to get you started:
+<p align="center"> Techs that I've used at least once </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  
+</p>
+<h3 align="center"> Interested in...</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=K8s&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>&nbsp 
+
+</p>
+
+
+
+<h3 align="center"> 🧸 My blog 🧸 </h3>
+<p align="center">
+  <a href="https://velog.io/@leejb4898"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@leejb4898"/></a>&nbsp
+
+</p>
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJB-48&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejb4898)](https://solved.ac/leejb4898/)
