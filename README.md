@@ -21,9 +21,7 @@
 
 
 
-<h3 align="center"> 🧸 My blog 🧸 </h3>
-<p align="center">
-  <a href="https://velog.io/@leejb4898"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@leejb4898"/></a>&nbsp
+
 
 </p>
 <br>
